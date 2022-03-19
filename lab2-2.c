@@ -38,6 +38,6 @@ printf("\n[after **dptr = 8888] \n");
 printf("value of i == %d\n", i);
 printf("value of *ptr == %d\n", *ptr);
 printf("value of **dptr == %d\n", **dptr);
-printf("[----- [¿Ãº±¡÷] [2021041042] -----]");
+printf("[----- [Ïù¥ÏÑ†Ï£º] [2021041042] -----]");
 return 0;
 }
